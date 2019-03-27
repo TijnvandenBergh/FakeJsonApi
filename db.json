@@ -4,7 +4,7 @@
       {"name": "informatica"},
     ],
     "results": [
-    {"coursecode": "EITB-SMTH1", "result": 7.8} 
+    {"coursecode": "EITB-SMTH1", "result": "7.8"} 
   ]},
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
