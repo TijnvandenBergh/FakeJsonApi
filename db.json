@@ -1,19 +1,36 @@
 {
-  "students": [
-    { "id": 2102241, "name": "Tijn van den Bergh", "inschrijvingen": [ 
-      {"name": "informatica"}
-    ],
-    "results": [
-    {"coursecode": "EITB-SMTH1", "result": "7.8"} 
-  ]},
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "exchangepositions": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"students": [{
+			"id": 2102241,
+			"name": "Tijn van den Bergh",
+			"inschrijvingen": [{
+				"name": "informatica"
+			}],
+			"results": [{
+				"coursecode": "EITB-SMTH1",
+				"result": "7.8"
+			}]
+		},
+		{
+			"id": 2,
+			"title": "Post 2"
+		},
+		{
+			"id": 3,
+			"title": "Post 3"
+		}
+	],
+	"exchangepositions": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
 }
