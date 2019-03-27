@@ -2,7 +2,7 @@
   "students": [
     { "id": 2102241, "name": "Tijn van den Bergh", "inschrijvingen": [ 
       {"name": "informatica"},
-    ]},
+    ],
     "results": [
     {"coursecode": "EITB-SMTH1", "result": 7.8} 
   ]},
