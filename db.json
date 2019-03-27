@@ -9,6 +9,11 @@
 				"coursecode": "EITB-SMTH1",
 				"result": "7.8"
 			}]
+			"voortgang": [{ 
+				"name": "informatica-propedeuse", "accomplished": true,
+				"name": "informatica-hoofdfase", "accomplished", true,
+				"name": "informatica-compleet", "accomplished", false
+		}]
 		},
 		{
 			"id": 2,
