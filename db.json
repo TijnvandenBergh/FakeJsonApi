@@ -1,7 +1,13 @@
 {
 	"students": [{
-			"id": 2102241,
-			"name": "Jan van den Bergh",
+			"name": "T. van den Bergh",
+			"Studentnummer": 2102241,
+			"Voornamen": "Tijn",
+			"Roepnaam": "Tijn",
+			"Geboortedatum": "06-11-1995",
+			"Geboorteplaats": "Veldhoven",
+			"Opleiding": "Informatica",
+			"E-mailadres": "Fakeemail@avans.nl"
 			"inschrijvingen": [{
 				"name": "informatica"
 			}],
