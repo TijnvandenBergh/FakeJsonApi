@@ -1,55 +1,37 @@
 {
-	"students": [{
-			"name": "T. van den Bergh",
-			"Studentnummer": 2102241,
-			"Voornamen": "Tijn",
-			"Roepnaam": "Tijn",
-			"Geboortedatum": "06-11-1995",
-			"Geboorteplaats": "Veldhoven",
-			"Opleiding": "Informatica",
-			"E-mailadres": "Fakeemail@avans.nl"
-			"inschrijvingen": [{
-				"name": "informatica"
-			}],
-			"results": [{
-				"coursecode": "EITB-SMTH1",
-				"result": "7.8"
-			}],
-			"voortgang": [{
-					"name": "informatica-propedeuse",
-					"accomplished": true
-				},
-				{
-					"name": "informatica-hoofdfase",
-					"accomplished": true
-				},
-				{
-					"name": "informatica-compleet",
-					"accomplished": false
-				}
-			]
-		},
-		{
-			"id": 2,
-			"title": "Post 2"
-		},
-		{
-			"id": 3,
-			"title": "Post 3"
-		}
-	],
-	"exchangepositions": [{
-			"id": 1,
-			"body": "some comment",
-			"postId": 1
-		},
-		{
-			"id": 2,
-			"body": "some comment",
-			"postId": 1
-		}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+	"student": [{
+		"name": "T. van den Bergh",
+		"Studentnummer": 2102241,
+		"Voornamen": "Tijn",
+		"Roepnaam": "Tijn",
+		"Geboortedatum": "06-11-1995",
+		"Geboorteplaats": "Veldhoven",
+		"Opleiding": "Informatica",
+		"E-mailadres": "Fakeemail@avans.nl",
+		"inschrijvingen": [{
+
+			"name": "informatica",
+			"fases": [{
+				"faseCode": "IMIN-DV-PROP-15",
+				"completed": true,
+				"cohort": "2015"
+			}]
+		}, {
+			"name": "placeholder"
+		}],
+
+		"voortgang": [{
+				"name": "informatica-propedeuse",
+				"accomplished": true
+			},
+			{
+				"name": "informatica-hoofdfase",
+				"accomplished": true
+			},
+			{
+				"name": "informatica-compleet",
+				"accomplished": false
+			}
+		]
+	}]
 }
