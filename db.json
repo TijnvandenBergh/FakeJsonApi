@@ -11,14 +11,17 @@
 		"E-mailadres": "Fakeemail@avans.nl",
 		"inschrijvingen": [{
 
-			"name": "informatica",
+			"name": "INFORMATICA-BACHELOR",
 			"judicium": true,
+			"completionDate": "31/05/2018",
+			"totalEC": 240,
 			"fases": [{
 					"faseCode": "IMIN-DV-PROP-15",
 					"judicium": true,
 					"cohort": "2015",
 					"completionDate": "07-07-2016",
 					"totalEC": 60,
+					"hasTranscript": true, 
 					"grades": [{}]
 
 				},
@@ -28,6 +31,7 @@
 					"cohort": "2016",
 					"completionDate": "07-07-2016",
 					"totalEC": 180,
+					"hasTranscript": false,
 					"grades": [{}]
 				}
 			]
