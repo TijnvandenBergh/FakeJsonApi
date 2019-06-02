@@ -12,9 +12,10 @@
 		"inschrijvingen": [{
 
 			"name": "informatica",
+			"judicium": true,
 			"fases": [{
 					"faseCode": "IMIN-DV-PROP-15",
-					"judicium": "geslaagd",
+					"judicium": true,
 					"cohort": "2015",
 					"completionDate": "07-07-2016",
 					"totalEC": 60,
@@ -22,11 +23,14 @@
 
 				},
 				{
-					"faseCode": "222"
+					"faseCode": "IMIN-DV-KERN-15",
+					"judicium": "geslaagd",
+					"cohort": "2016",
+					"completionDate": "07-07-2016",
+					"totalEC": 180,
+					"grades": [{}]
 				}
 			]
-		}, {
-			"name": "placeholder"
 		}],
 
 		"voortgang": [{
