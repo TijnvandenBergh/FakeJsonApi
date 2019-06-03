@@ -23,7 +23,11 @@
 					"totalEC": 60,
 					"receivedEC": 60, 
 					"hasTranscript": true, 
-					"grades": [{}]
+					"grades": [{
+						"courseCode": "X-C++-19",
+						"courseName": "C++ assessments",
+						"Grade": "7.9"
+					}]
 
 				},
 				{
