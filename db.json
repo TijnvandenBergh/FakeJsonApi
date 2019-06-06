@@ -29,18 +29,18 @@
 						"Grade": "7.9"
 					},
 						   {
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
+						"courseCode": "I-C#--19",
+						"courseName": "C# assessments",
+						"Grade": "8.5"
 						   },{
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
+						"courseCode": "I-SQL-19",
+						"courseName": "SQL databases",
+						"Grade": "6.0"
 						   },
 						   {
-						"courseCode": "X-C++-19",
-						"courseName": "C++ assessments",
-						"Grade": "7.9"
+						"courseCode": "I-SOA-Architectuur-19",
+						"courseName": "SOA Architectuur",
+						"Grade": "8"
 						   }
 						  ]
 
@@ -53,7 +53,25 @@
 					"totalEC": 180,
 					"receivedEC": 180,
 					"hasTranscript": false,
-					"grades": [{}]
+					"grades": [{
+						"courseCode": "X-C++-19",
+						"courseName": "C++ assessments",
+						"Grade": "7.9"
+					},
+						   {
+						"courseCode": "X-C++-19",
+						"courseName": "C++ assessments",
+						"Grade": "7.9"
+						   },{
+						"courseCode": "X-C++-19",
+						"courseName": "C++ assessments",
+						"Grade": "7.9"
+						   },
+						   {
+						"courseCode": "X-C++-19",
+						"courseName": "C++ assessments",
+						"Grade": "7.9"
+					}]
 				}
 			]
 		}],
